@@ -70,7 +70,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 		padding: 10px;
 		width: 100px;
 		color: white;
-		background-color: lightblue;
+		background-color: blue;
 		border: none;
 	}
 
