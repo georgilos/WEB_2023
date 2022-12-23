@@ -76,7 +76,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
 	#box{
 
-		background-color: rosybrown;
+		background-color: black;
 		margin: auto;
 		width: 300px;
 		padding: 20px;
